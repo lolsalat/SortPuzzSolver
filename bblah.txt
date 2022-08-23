@@ -1,0 +1,3 @@
+1. Screenshot vom spiel --> java Objekt
+2. Java objekt solven <<--- Fangen damit an FERTIG!
+3. Inputs an das Gerät senden
